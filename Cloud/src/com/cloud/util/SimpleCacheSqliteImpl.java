@@ -29,14 +29,8 @@ import android.database.sqlite.SQLiteOpenHelper;
  */
 public class SimpleCacheSqliteImpl implements SimpleCache {
 
-	/*
-	 * (non-Javadoc)
-	 * 
-	 * @see com.cloud.util.SimpleCache#get(java.lang.String)
-	 */
 	@Override
 	public String get(String key) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
